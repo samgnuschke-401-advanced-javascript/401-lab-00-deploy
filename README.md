@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/samgnuschke-401-advanced-javascript/401-lab-00/pulls)
-* [travis](https://travis-ci.com/401-advanced-javascript-leyla/lab-00)
+* [travis]()
 * [front-end]()
 
 #### Documentation
